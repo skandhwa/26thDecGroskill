@@ -11,6 +11,7 @@ public class ArrayListEx3 {
 		li.add(23);
 		li.add(true);
 		li.add(5600.5f);
+		li.add(6600.5f);
 		
 		for(Object x:li)
 		{
